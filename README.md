@@ -1,5 +1,5 @@
 # KMeans
-In Machine Learning there is supervised learning (data already with labels) and unsupervised learning (data without labels). KMeans is the latter. https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning
+In Machine Learning there is supervised learning (data already with labels) and unsupervised learning (data without labels). KMeans is the latter. 
 
 This algorithm clusters data points based on Euclidean distance between data points and a random centroid in the data. Centroids get updated based on averages of datapoints and within a cluster. That average becomes the new centroid. 
 
@@ -17,3 +17,6 @@ Update centroids:
 For each cluster, get the average of all datapoints. 
 
 Average = new center/centroid
+
+
+https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning
