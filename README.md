@@ -5,10 +5,10 @@ This algorithm clusters data points based on Euclidean distance between data poi
 
 Flow of Algorithm:
 
-Randomize centroids
+Randomize centroids.
 
 For each data point, assign data point to clusters (a centroid represents a cluster) based on Euclidean distance.
-(Euclidean Distancerepresents similarities in data)
+(Euclidean Distancerepresents similarities in data).
 
 <img width="531" alt="Screen Shot 2022-08-31 at 11 37 29 AM" src="https://user-images.githubusercontent.com/63027273/187754248-362b97b3-14e3-459f-aaf2-75ced225145f.png">
 
@@ -16,7 +16,7 @@ Update centroids:
 
 For each cluster, get the average of all datapoints. 
 
-Average = new center/centroid
+Average = new centroid.
 
 
 https://www.ibm.com/cloud/blog/supervised-vs-unsupervised-learning
